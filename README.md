@@ -1,17 +1,13 @@
-# magic_ball
 
-A new Flutter application.
+# Magic  Ball 🎱
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## What I created
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# magic_ball
+A make a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button.
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
+
+
